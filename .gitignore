@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+#prevents extra files from vs code
+.vscode/
+output/
