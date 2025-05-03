@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/anailfatima/Desktop/DSA/lab 1/task 1",
+      "program": "/Users/anailfatima/Desktop/DSA/lab 1/task 1/build/Debug/outDebug"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/anailfatima/Downloads/Stack",
+      "program": "/Users/anailfatima/Downloads/Stack/build/Debug/outDebug"
+    }
+  ]
+}

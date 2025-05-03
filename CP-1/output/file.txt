@@ -1,0 +1,60 @@
+What is the capital of France?
+1. Paris
+2. London
+3. Berlin
+4. Madrid
+Answer: 1
+Which planet is known as the Red Planet?
+1. Venus
+2. Mars
+3. Jupiter
+4. Saturn
+Answer: 2
+Who wrote 'Romeo and Juliet'?
+1. Shakespeare
+2. Dickens
+3. Austen
+4. Tolkien
+Answer: 1
+What is the largest ocean on Earth?
+1. Atlantic Ocean
+2. Indian Ocean
+3. Arctic Ocean
+4. Pacific Ocean
+Answer: 4
+What is the square root of 64?
+1. 8
+2. 6
+3. 10
+4. 9
+Answer: 1
+Who painted the Mona Lisa?
+1. Van Gogh
+2. Picasso
+3. da Vinci
+4. Monet
+Answer: 3
+What is the smallest country in the world?
+1. Vatican City
+2. Monaco
+3. San Marino
+4. Liechtenstein
+Answer: 1
+Which gas do plants absorb for photosynthesis?
+1. Oxygen
+2. Carbon Dioxide
+3. Nitrogen
+4. Helium
+Answer: 2
+What is the longest river in the world?
+1. Nile
+2. Amazon
+3. Yangtze
+4. Mississippi
+Answer: 2
+In which year did the Titanic sink?
+1. 1912
+2. 1905
+3. 1920
+4. 1898
+Answer: 1
